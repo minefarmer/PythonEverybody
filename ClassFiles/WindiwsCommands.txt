@@ -1,0 +1,17 @@
+Windows Commands
+
+python vs. py
+
+Running Python isn't always used with python yourfile.py or python3 yourfile.py on Windows. If you've installed Python but those commands aren't working for you (more about this particular command in the Running Python Code lesson) then try py yourfile.py
+
+ls -la vs. dir
+
+In the command line you'll see me write ls -la a lot. That simply lists my folders and files in the command line. This is a unix command, but on Windows you'll type dir — I mention this about 20 times throughout the course as well so if forget, that's OK. It's also covered thoroughly in the lesson: Command Line Crash Course
+
+Command Line Programs
+
+In several lessons I mention PowerShell, Command Prompt, Bash, Terminal, etc. Since you're on Windows you'll likely use Command Prompt. You can search for "Command Prompt", right click and open as admin. This will open the program with the proper permissions you need to run Python files.
+
+—
+
+If you see anymore differences or would like to see more Windows support, feel free to message me on Udemy! 
